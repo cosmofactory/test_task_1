@@ -6,9 +6,9 @@ Install venv:
 Don't forget to activate it:
 
 Win:
-```source venv/scripts/activate```
-Max/Linux:
-```source venv/bin/activate```
+```source venv/scripts/activate```\n
+Mac/Linux:
+```source venv/bin/activate```\n
 
 Install dependencies:
 ```pip install -r requirements.txt```
